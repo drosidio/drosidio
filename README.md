@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drosidio
+- 👋 Hi, I’m Dionysios!
 - 👀 I’m interested in Data Science and Data Engineering
 - 🌱 I’m currently learning how to automate work to get analysis faster
 - 💞️ I’m looking to collaborate on various open source projects
