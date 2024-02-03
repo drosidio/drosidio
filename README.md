@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dionysios!
-- 👀 I’m interested in Data Science, Data Engineering, Devops Engineering and anything Automation!
-- 🌱 I’m currently learning how to automate work to get analysis faster
+- 👀 I’m interested in Data Science, Data Engineering, DevOps and anything Automation!
+- 🌱 I’m currently focusing on data analysis and building robust custom and bespoke solutions.
 - 💞️ I’m looking to collaborate on various open source projects
 - 📫 How to reach me @drosidio
 
